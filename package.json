@@ -1,6 +1,6 @@
 {
   "homepage": "https://franpetkovic.github.io/Kanye-quote",
-  "name": "my-app",
+  "name": "Kanye-quote",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
